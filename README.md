@@ -1,6 +1,6 @@
 # Hi, I'm Pawan Kumar 👋
 
-🎓 Final Year CSE Student (Specialization in Data Science) at Presidency University  
+Data Analyst and AI/ML practitioner | M.Tech CSE (Global Academy of Technology) | B.Tech CSE (Data Science)
 💡 Interested in Machine Learning, Generative AI, and Full Stack Development  
 📍 Based in India
 
@@ -16,6 +16,8 @@
 ---
 
 ## 🚀 Projects
+
+**[DataSense AI](https://github.com/Pawan07099/[repo-name])**: AI-powered CSV analysis agent for automated profiling, EDA, and insights. Microsoft Agents League Hackathon 2026.
 
 ### 🔹 Online Personalized Learning Remediation/Tutoring Tool 
 - Gen AI-based recommendation system to enhance educational strategies.
